@@ -16,8 +16,10 @@ Mind Gym은 이를 “연습 가능한 기술”로 보고,
 ---
 
 ## 발표 자료
+<img width="1205" height="669" alt="image" src="https://github.com/user-attachments/assets/fa72b397-e980-4fea-b7b8-9ec719ce271c" />
 
-[MindGym (1).pdf](https://github.com/user-attachments/files/25323492/MindGym.1.pdf)
+[Mind Gym.pdf](https://github.com/user-attachments/files/25323508/Mind.Gym.pdf)
+
 
 ---
 
