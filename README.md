@@ -21,6 +21,7 @@ Mind Gym은 이를 “연습 가능한 기술”로 보고,
 [Mind Gym.pdf](https://github.com/user-attachments/files/25323508/Mind.Gym.pdf)
 
 https://www.youtube.com/watch?v=HJPMqmBI3R4
+
 ---
 
 ## Core Concept
@@ -114,6 +115,7 @@ Feedback (사후 요약 및 학습 가이드)
 ## 서비스 시연 영상 (사진을 클릭해주세요)
 
 [![데모 시연](<img width="1832" height="866" alt="image" src="https://github.com/user-attachments/assets/3c05c5ea-8ccf-4323-bbc1-407de200c5c0" />)](https://github.com/user-attachments/assets/a696064e-a247-48f4-9353-1f6071ec65e4)
+
 ---
 
 ## Philosophy
