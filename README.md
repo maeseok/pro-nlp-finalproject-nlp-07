@@ -1,4 +1,7 @@
 # Mind Gym (마음의 헬스장)
+
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/f946958b-f6eb-43e4-b5bc-c9ede4593f9c" />
+
 **대인관계 회복을 위한 AI 롤플레잉 코치**
 
 Mind Gym은 단순히 공감하거나 위로하는 챗봇이 아니라,  
@@ -9,6 +12,12 @@ Mind Gym은 단순히 공감하거나 위로하는 챗봇이 아니라,
 관계 속에서 필요한 **말하기 기술과 대응 전략**을 잃어버렸습니다.  
 Mind Gym은 이를 “연습 가능한 기술”로 보고,  
 반복 훈련과 즉각적인 개입을 통해 **실제 행동 변화를 유도**하는 것을 목표로 합니다.
+
+---
+
+## 발표 자료
+
+[MindGym (1).pdf](https://github.com/user-attachments/files/25323492/MindGym.1.pdf)
 
 ---
 
@@ -48,7 +57,6 @@ main : 프로젝트 전체 개요 및 문서
 ai : AI 모델·프롬프트·코치/슈퍼바이저 로직
 backend : API 서버, 세션 관리, 상태 저장
 frontend : 사용자 인터페이스 (웹/앱)
-feedback : 피드백 고도화 및 실험 브랜치
 ```
 
 - `main` 브랜치는 **아키텍처와 철학을 설명하는 문서 중심 브랜치**입니다.
@@ -98,6 +106,13 @@ Feedback (사후 요약 및 학습 가이드)
 - 사용자 숙련도 기반 피드백 난이도 조절
 - 실제 사용자 테스트를 통한 시나리오 확장
 - 디지털 치료제(DTx) 가능성 검토
+
+---
+
+## 서비스 시연 영상
+
+https://github.com/user-attachments/assets/a696064e-a247-48f4-9353-1f6071ec65e4
+https://www.youtube.com/watch?v=HJPMqmBI3R4
 
 ---
 
